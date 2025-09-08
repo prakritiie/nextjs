@@ -17,16 +17,16 @@ export default function Navbar() {
 
           {/* Desktop Navigation Links */}
           <div className="hidden md:flex items-center space-x-8">
-            <a href="#home" className="text-gray-700 hover:text-black transition-colors font-medium">
+            <a href="" className="text-gray-700 hover:text-black transition-colors font-medium">
               Home
             </a>
-            <a href="#about" className="text-gray-700 hover:text-black transition-colors font-medium">
+            <a href="about" className="text-gray-700 hover:text-black transition-colors font-medium">
               About
             </a>
-            <a href="#explore" className="text-gray-700 hover:text-black transition-colors font-medium">
+            <a href="explore" className="text-gray-700 hover:text-black transition-colors font-medium">
               Explore
             </a>
-            <a href="#community" className="text-gray-700 hover:text-black transition-colors font-medium">
+            <a href="community" className="text-gray-700 hover:text-black transition-colors font-medium">
               Community
             </a>
 
