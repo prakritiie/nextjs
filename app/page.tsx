@@ -7,7 +7,6 @@ export default function Home() {
       {/* <h1 className="text-4xl font-bold mb-6">Welcome to botSphere</h1>
       <h1 className="text-2xl  text-gray-700 font-small mb-6">“ your sphere of AI insights ”</h1> */}
 
-
       
 
           {/* Hero Section */}
